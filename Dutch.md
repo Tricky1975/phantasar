@@ -16,29 +16,29 @@ De serie is oorspronkelijk in het Nederlands geschreven, en daarom laat ik het _
 
 Dingen die je hier kunt vinden: (Ik houdt alle labels strict Engelstalig voor technische redenen).
 
-- Reminders
+- *Reminders*
   Iets wat ik nog in het algemeen moest doen, of iets wat een (potenti&euml;le) fan me verzocht heeft, maar wat moet wachten tot ik andere dingen gedaan heb kunnen dit label krijgen.
-- Spelfout / Grammaticale fout
-- NL / EN om aan te geven om welke taal het gaat. 
-- Publication Error
+- *Spelfout / Grammaticale fout*
+- *NL* / *EN* om aan te geven om welke taal het gaat. 
+- *Publication Error*
   Dit kan om fouten in de publicatie, zoals een verkeerd font, letters te klein of te groot, of een aantal layout issues of fouten in de layout waardoor dingen lelijk worden enzovoorts.
-- Physical book
+- *Physical book*
   Het fysieke boek, oftewel het boek van inkt en papier komende uit de drukpers.
-- E-Book
+- *E-Book*
   En dat refereert natuurlijk naar de e-book versie van het boek (meestal in epub format)
-- PDF
+- *PDF*
   In sommige gevallen kan een PDF versie van het boek bestaan.
-- Illegal spread
+- *Illegal spread*
   Is iemand mijn werk aan het verspreiden zonder mijn toestemming (bijvoorbeeld dmv torrents). Well, dat gebeurt toch wel, en ik geloof niet echt in ertegen te vechten, maar laat het me ten minste weten, zodat ik in iedere geval kan overwegen of acties nodig zijn of niet.
-- Plagiasm
+- *Plagiasm*
   Is iemand mijn werk aan het "Stelen" om acter mijn rug om rijk of beroemd te worden? DAN hebben we iets om over te praten. Ik doe niet moeilijk over fan art (sterker nog, ik moedig het juist aan), maar "echte" auteursrechtenschendingen zullen om actie vragen.
-- Fan Stuff
+- *Fan Stuff*
   Als je "fan stuff" hebt, laat het me weten, schroom er niet voor. Misschien krijg je wel een plekje om mijn eigen website.
-- Question
+- *Question*
   Wil je iets weten? Vraag het gewoon.
-- Link me
-  Are you a writer, just like me? If you link to me, I will link to you. Just let me know about you. You don't have to release your stuff for free (I don't do that either), but showing a little bit of material so I can get a bit of an image what kind of writer you are, helps me to properly put you on my own website.
-- Site
+- *Link me*
+  Ben je net als ik een schrijver? Als jij naar mij linkt, link ik naar jou. Laat me weten dat je er bent. Je hoeft je werk niet gratis te verspreiden (doe ik ook niet), maar laat we wel wat materiaal zien zodat ik een beeld kan vormen wat voor schrijver jij bent. Dat helpt me om je goed op mijn site te presenteren.
+- *Site*
   Alle issues met betrekking op mijn website http://phantasar.nl (de site heeft zowel een Nederlandstalige als Engelstalige sectie).
   
 
